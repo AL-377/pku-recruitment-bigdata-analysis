@@ -1,7 +1,7 @@
 # 企业招聘与就业市场大数据分析
 
 ## 项目介绍及分工
-传送门：[项目ppt](https://github.com/alexanderliu-creator/pku-recruitment-bigdata-analysis/blob/master/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9C%AB%E6%9C%9Fv6.pptx)
+传送门：[项目ppt](https://github.com/AL-377/pku-recruitment-bigdata-analysis/blob/master/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9C%AB%E6%9C%9Fv6.pptx)
 
 ## 部署流程
 
