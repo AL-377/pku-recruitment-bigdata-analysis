@@ -1,0 +1,601 @@
+position,company,jd,workplace,education,salary
+后端工程师,百度,"Java,Python,Go",北京,本科,20000
+NLP算法工程师,百度,"pytorch,python,ACL",上海,硕士,30000
+后端工程师,百度,"Java,C++,Spring Boot",广东,本科,18000
+NLP算法工程师,百度,"tensorflow,python,NLP",浙江,博士,40000
+后端工程师,百度,"Python,Django,Flask",湖北,本科,21000
+NLP算法工程师,百度,"BERT,python,文本分类",江苏,硕士,35000
+后端工程师,百度,"C#,ASP.NET,MVC",福建,本科,19000
+NLP算法工程师,百度,"OpenNMT,python,神经网络",四川,博士,38000
+后端工程师,百度,"Ruby,Ruby on Rails,REST API",湖南,本科,20000
+NLP算法工程师,百度,"GPT-3,python,信息抽取",山东,硕士,32000
+后端工程师,美团,"Java,MySQL,Spring",上海,本科,15000
+NLP算法工程师,美团,"nlp,deep_learning,transformers",北京,硕士,30000
+后端工程师,美团,"Go,Redis,NoSQL",浙江,本科,18000
+NLP算法工程师,美团,"nltk,word_embeddings,CUDA",广东,博士,35000
+后端工程师,美团,"Node.js,MongoDB,GraphQL",广东,硕士,20000
+NLP算法工程师,美团,"BERT,text_classification,pytorch",四川,本科,25000
+后端工程师,美团,"C#,SQL_Server,ASP.NET",天津,硕士,17000
+NLP算法工程师,美团,"tensorflow,python,seq2seq",湖南,博士,32000
+后端工程师,美团,"PHP,MySQL,Laravel",福建,本科,14000
+NLP算法工程师,美团,"fasttext,word2vec,n-grams",河南,硕士,28000
+后端工程师,字节,"Java,Python,MySQL",上海,本科,25000
+NLP算法工程师,字节,"pytorch,python,ACL",北京,硕士,35000
+后端工程师,字节,"Java,Python,MySQL",广东,本科,24000
+NLP算法工程师,字节,"Tensorflow,python,ACL",湖南,硕士,34000
+后端工程师,字节,"Java,Python,MySQL",浙江,本科,26000
+NLP算法工程师,字节,"pytorch,python,ACL",四川,博士,40000
+后端工程师,字节,"Java,Python,MySQL",江苏,本科,24500
+NLP算法工程师,字节,"Tensorflow,python,CUDA",福建,硕士,36000
+后端工程师,字节,"Java,Python,MySQL",河南,本科,23500
+NLP算法工程师,字节,"pytorch,python,ACL",山东,博士,39000
+后端工程师,阿里,"Java,C++,Spring",北京,本科,25000
+NLP算法工程师,阿里,"pytorch,python,ACL",上海,硕士,30000
+后端工程师,阿里,"Java,Node.js,MySQL",广东,本科,24000
+NLP算法工程师,阿里,"Tensorflow,DeepLearning,Keras",广东,硕士,32000
+后端工程师,阿里,"Go,Python,Django",四川,本科,23000
+NLP算法工程师,阿里,"BERT,Attention,CUDA",浙江,博士,40000
+后端工程师,阿里,"Java,MongoDB,Redis",江苏,本科,24000
+NLP算法工程师,阿里,"pytorch,python,NLTK",江苏,硕士,30000
+后端工程师,阿里,"C++,Linux,SQL",陕西,本科,23000
+NLP算法工程师,阿里,"NLTK,Spacy,Gensim",福建,硕士,29000
+后端工程师,小红书,"Java,SpringBoot,MySQL",上海,本科,20000
+后端工程师,小红书,"Python,Django,Redis",北京,本科,21000
+后端工程师,小红书,"Go,Microservices,Kubernetes",广东,硕士,26000
+后端工程师,小红书,"Node.js,Express,MongoDB",浙江,本科,22000
+后端工程师,小红书,"C#,ASP.NET,CMS",福建,本科,20000
+NLP算法工程师,小红书,"TensorFlow,Python,Word2Vec",上海,硕士,28000
+NLP算法工程师,小红书,"PyTorch,Python,Text Mining",北京,博士,38000
+NLP算法工程师,小红书,"GPT-3,NLP Algorithms,NLG",江苏,博士,35000
+NLP算法工程师,小红书,"BERT,Python,Deep Learning",浙江,硕士,30000
+NLP算法工程师,小红书,"NLP Models,Scikit-Learn,ML",广东,硕士,28000
+后端工程师,百度,"Java,Python,Node.js",北京,本科,15000
+NLP算法工程师,百度,"pytorch,python,ACL",上海,硕士,30000
+后端工程师,百度,"Java,Python,Golang",浙江,本科,18000
+NLP算法工程师,百度,"pytorch,python,CUDA",广东,博士,40000
+后端工程师,百度,"Java,Python,Node.js",湖南,本科,15000
+NLP算法工程师,百度,"TensorFlow,python,NLP",四川,硕士,28000
+后端工程师,百度,"Java,Python,Django",江苏,本科,16000
+NLP算法工程师,百度,"pytorch,C++,NLP",河南,硕士,30000
+后端工程师,百度,"Java,Python,Flask",陕西,本科,15000
+NLP算法工程师,百度,"pytorch,python,Deep Learning",福建,博士,38000
+后端工程师,腾讯,"Java,Python,C++,MySQL",北京,本科,20000
+NLP算法工程师,腾讯,"Python,NLTK,Deep Learning,Machine Learning",上海,硕士,30000
+后端工程师,腾讯,"Java,Python,Node.js,Oracle",广东,本科,22000
+NLP算法工程师,腾讯,"Python,Sklearn,Word2Vec,Gensim",浙江,硕士,32000
+后端工程师,腾讯,"Java,C++,Spring Boot,MongoDB",湖北,本科,21000
+NLP算法工程师,腾讯,"Python,NLTK, Keras, TensorFlow",福建,博士,40000
+后端工程师,腾讯,"Java,Python,PHP,PostgreSQL",江苏,硕士,26000
+NLP算法工程师,腾讯,"Python,TensorFlow,PyTorch,Deep Learning",湖南,博士,42000
+后端工程师,腾讯,"Java,Python,Ruby,SQLite",四川,本科,24000
+NLP算法工程师,腾讯,"Python,CUDA,Deep Learning,AI",辽宁,博士,43000
+后端工程师,小红书,"Java,MySQL,SpringBoot",上海,本科,20000
+后端工程师,小红书,"Java,MySQL,Redis",北京,本科,22000
+后端工程师,小红书,"Java,MySQL,SpringCloud",广东,硕士,25000
+后端工程师,小红书,"Java,MySQL,Docker",浙江,硕士,24000
+后端工程师,小红书,"Java,MySQL,Kubernetes",江苏,本科,21000
+NLP算法工程师,小红书,"Tensorflow,python,BERT",北京,硕士,30000
+NLP算法工程师,小红书,"Tensorflow,python,PyTorch",上海,博士,35000
+NLP算法工程师,小红书,"Tensorflow,python,ELMo",广东,硕士,32000
+NLP算法工程师,小红书,"Tensorflow,python,ML",浙江,本科,27000
+NLP算法工程师,小红书,"Tensorflow,python,OpenAI",江苏,博士,34000
+后端工程师,腾讯,"Java,Python,C++",北京,本科,25000
+后端工程师,腾讯,"Java,Python,Golang",上海,硕士,30000
+NLP算法工程师,腾讯,"pytorch,python,ACL",广东,硕士,35000
+NLP算法工程师,腾讯,"tensorflow,python,Hugging Face",广东,博士,40000
+后端工程师,腾讯,"Java,Python,Node.js",江苏,本科,28000
+NLP算法工程师,腾讯,"BERT,python,GPT-3",四川,硕士,32000
+后端工程师,腾讯,"Java,Kotlin,Python",浙江,硕士,31000
+NLP算法工程师,腾讯,"Transformer,python,OpenAI",福建,博士,42000
+后端工程师,腾讯,"Python,Ruby,Scala",陕西,本科,26000
+NLP算法工程师,腾讯,"understanding,python,generation",湖北,硕士,33000
+后端工程师,小红书,"Java, Spring Boot, MySQL",北京,本科,25000
+后端工程师,小红书,"Python, Django, PostgreSQL",上海,本科,26000
+NLP算法工程师,小红书,"TensorFlow, Python, Gensim",广东,硕士,30000
+NLP算法工程师,小红书,"PyTorch, Python, NLP",浙江,博士,35000
+后端工程师,小红书,"Node.js, Express, MongoDB",江苏,本科,24000
+后端工程师,小红书,"Go, Gin, SQL",四川,本科,23000
+NLP算法工程师,小红书,"NLTK, SpaCy, Python",福建,硕士,28000
+NLP算法工程师,小红书,"BERT, Hugging Face, Python",湖北,博士,32000
+后端工程师,小红书,"C#, .NET Core, SQL Server",云南,本科,21000
+NLP算法工程师,小红书,"Keras, Python, Deep Learning",陕西,硕士,29000
+后端工程师,百度,"Java,Python,MySQL,Spring,Redis",北京,本科,20000
+NLP算法工程师,百度,"Python,NLP,ML,Deep Learning,Pytorch",上海,硕士,30000
+后端工程师,百度,"Java,Python,MySQL,J2EE",广东,本科,18000
+NLP算法工程师,百度,"Python,NLP,Deep Learning,TensorFlow",江苏,博士,40000
+后端工程师,百度,"Java,Python,Django,MySQL",四川,硕士,25000
+NLP算法工程师,百度,"Python,NLP,ML,Keras,Pytorch",湖北,硕士,35000
+后端工程师,百度,"Java,Spring Boot,MySQL,Mongodb",浙江,本科,22000
+NLP算法工程师,百度,"Python,NLP,ML,Deep Learning,CUDA,Pytorch",湖南,博士,42000
+后端工程师,百度,"Java,Python,MySQL,AWS",陕西,硕士,24000
+NLP算法工程师,百度,"Python,NLP,Deep Learning,Scikit-Learn",福建,硕士,32000
+后端工程师,小红书,"Java,Python,MySQL",北京,本科,20000
+后端工程师,小红书,"Java,Python,Redis",上海,硕士,25000
+后端工程师,小红书,"Java,Spring,MySQL",广东,博士,30000
+后端工程师,小红书,"Java,Python,Golang",浙江,本科,22000
+后端工程师,小红书,"Java,Python,MySQL",江苏,高中及以下,18000
+NLP算法工程师,小红书,"pytorch,python,ACL",北京,硕士,30000
+NLP算法工程师,小红书,"pytorch,python,CUDA",广东,博士,40000
+NLP算法工程师,小红书,"tensorflow,python,NLP",上海,本科,25000
+NLP算法工程师,小红书,"tensorflow,python,ML,NLP",浙江,硕士,32000
+NLP算法工程师,小红书,"pytorch,python,CNN",江苏,高中及以下,23000
+后端工程师,阿里,"Java,MySQL,Springboot",北京,本科,18000
+NLP算法工程师,阿里,"Python,PyTorch,NLP",北京,硕士,25000
+后端工程师,阿里,"Java,MySQL,Redis",上海,本科,20000
+NLP算法工程师,阿里,"Python,Speech Recognition,NLP",上海,硕士,27000
+后端工程师,阿里,"Java,PostgreSQL,Springcloud",广东,本科,19000
+NLP算法工程师,阿里,"Python,Information Retrieval,NLP",广东,硕士,26000
+后端工程师,阿里,"Java,NoSQL,Spring MVC",湖北,本科,18500
+NLP算法工程师,阿里,"Python,Deep Learning,NLP",湖北,硕士,24000
+后端工程师,阿里,"Java,SQL,Microservices",四川,本科,18000
+NLP算法工程师,阿里,"Python,Machine Learning,NLP",四川,硕士,25000
+后端工程师,美团,"java,python,node.js",北京,本科,15000
+后端工程师,美团,"java,python,node.js",上海,本科,16000
+后端工程师,美团,"java,python,node.js",广东,硕士,18000
+后端工程师,美团,"java,python,node.js",四川,硕士,17000
+后端工程师,美团,"java,python,node.js",浙江,博士,20000
+NLP算法工程师,美团,"pytorch,python,ACL",北京,硕士,25000
+NLP算法工程师,美团,"pytorch,python,CUDA",上海,硕士,26000
+NLP算法工程师,美团,"pytorch,python,ACL",广东,博士,30000
+NLP算法工程师,美团,"pytorch,python,CUDA",四川,博士,28000
+NLP算法工程师,美团,"pytorch,python,ACL",浙江,博士,32000
+后端工程师,字节,"Java,Python,数据库",北京,本科,20000
+NLP算法工程师,字节,"torch,python,NLU",北京,博士,50000
+后端工程师,字节,"Java,Python,Redis",广东,本科,23000
+NLP算法工程师,字节,"torch,python,机器学习",广东,硕士,45000
+后端工程师,字节,"Go,Python,数据库",浙江,本科,22000
+NLP算法工程师,字节,"tensorflow,python,自然语言处理",浙江,硕士,47000
+后端工程师,字节,"Java,Python,SQL",福建,本科,22000
+NLP算法工程师,字节,"pytorch,python,自然语言理解",福建,博士,50000
+后端工程师,字节,"Go,Python,MySQL",上海,本科,21000
+NLP算法工程师,字节,"pytorch,python,语义理解",上海,硕士,46000
+后端工程师,百度,"C++,Java,MySQL",北京,本科,25000
+后端工程师,百度,"Python,Node.js,Django",上海,硕士,28000
+后端工程师,百度,"Go,Java,Redis",广东,博士,32000
+后端工程师,百度,"C++,Java,Oracle",浙江,高中及以下,20000
+后端工程师,百度,"Ruby,Rails,RESTful API",福建,硕士,27000
+NLP算法工程师,百度,"pytorch,python,ACL",浙江,硕士,30000
+NLP算法工程师,百度,"pytorch,python,CUDA",广东,博士,40000
+NLP算法工程师,百度,"tensorflow,keras,scala",四川,本科,25000
+NLP算法工程师,百度,"BERT,OpenCV,Spark",江苏,硕士,35000
+NLP算法工程师,百度,"NLP,Java,deep learning",河南,高中及以下,18000
+后端工程师,腾讯,"Java,Spring MVC,数据库",北京,本科,15000
+NLP算法工程师,腾讯,"python,numpy,pandas",上海,博士,40000
+后端工程师,腾讯,"Java,数据结构,分类算法",广东,硕士,20000
+NLP算法工程师,腾讯,"python,深度学习,文本分类",浙江,博士,45000
+后端工程师,腾讯,"Java,爬虫,数据库",江苏,本科,18000
+NLP算法工程师,腾讯,"python,深度学习,图像处理",福建,博士,42000
+后端工程师,腾讯,"Java,线程池,数据库",四川,硕士,17000
+NLP算法工程师,腾讯,"python,深度学习,自然语言处理",湖北,博士,43000
+后端工程师,腾讯,"Java,微服务,数据库",黑龙江,本科,16000
+NLP算法工程师,腾讯,"python,深度学习,机器学习",湖南,博士,41000
+后端工程师,小红书,"Java,Spring,MySQL",北京,本科,15000
+NLP算法工程师,小红书,"Tensorflow,python,CUDA",上海,硕士,25000
+后端工程师,小红书,"Go,Spring,Cassandra",广东,本科,17000
+NLP算法工程师,小红书,"pytorch,python,NLP",浙江,博士,30000
+后端工程师,小红书,"Java,Spring,Redis",天津,高中及以下,10000
+NLP算法工程师,小红书,"Tensorflow,keras,ACL",上海,硕士,28000
+后端工程师,小红书,"PHP,Laravel,MongoDB",福建,本科,14000
+NLP算法工程师,小红书,"R,Machine learning,CUDA",广东,博士,32000
+后端工程师,小红书,"nodejs,Express,MongoDB",河北,高中及以下,9000
+NLP算法工程师,小红书,"pytorch,python,Machine learning",河南,硕士,26000
+后端工程师,百度,"Java,Python,MySQL",北京,本科,15000
+后端工程师,百度,"Java,Python,MySQL",广东,硕士,18000
+NLP算法工程师,百度,"pytorch,python,ACL",上海,硕士,30000
+NLP算法工程师,百度,"tensorflow,python,ACL",浙江,博士,40000
+后端工程师,百度,"Java,Go,Redis",江苏,本科,16000
+NLP算法工程师,百度,"pytorch,tensorflow,ACL",四川,硕士,32000
+后端工程师,百度,"Python,Django,MySQL",湖南,本科,14000
+NLP算法工程师,百度,"pytorch,keras,ACL",福建,博士,38000
+后端工程师,百度,"Java,SpringBoot,MySQL",山东,硕士,17000
+NLP算法工程师,百度,"pytorch,python,CUDA",广西,博士,42000
+后端工程师,美团,"Java,Python,Django",北京,本科,15000
+NLP算法工程师,美团,"Python,Statistical Modeling,AllenNLP",上海,硕士,25000
+后端工程师,美团,"J2EE,Spring Boot,Python",浙江,本科,16000
+NLP算法工程师,美团,"TensorFlow,Keras,NLTK",广东,博士,30000
+后端工程师,美团,"GO,MySQL,Docker",四川,本科,17000
+NLP算法工程师,美团,"Gensim,PyTorch,C++",江苏,硕士,28000
+后端工程师,美团,"Node.js,NoSQL,RESTful",重庆,本科,20000
+NLP算法工程师,美团,"Machine Learning,Deep Learning,Python",北京,博士,35000
+后端工程师,美团,"Python,Express.js,Linux",上海,本科,18000
+NLP算法工程师,美团,"Scala,Hadoop,Spark",广东,硕士,27000
+后端工程师,字节,"java,mysql,spring",北京,本科,15000
+NLP算法工程师,字节,"pytorch,python,ACL",上海,本科,18000
+NLP算法工程师,字节,"pytorch,python,CUDA",广东,硕士,25000
+后端工程师,字节,"java,mysql,spring",福建,本科,16000
+NLP算法工程师,字节,"pytorch,python,ACL",湖南,硕士,24000
+NLP算法工程师,字节,"pytorch,python,CUDA",辽宁,博士,32000
+后端工程师,字节,"java,mysql,spring",江苏,高中及以下,8000
+后端工程师,字节,"java,mysql,spring",四川,硕士,23000
+NLP算法工程师,字节,"pytorch,python,ACL",陕西,博士,34000
+后端工程师,字节,"java,mysql,spring",重庆,本科,17000
+后端工程师,阿里,"Java,Python,MySQL",浙江,本科,25000
+NLP算法工程师,阿里,"TensorFlow,Python,NLP",浙江,硕士,35000
+后端工程师,阿里,"Java,Spring Boot,Docker",北京,本科,26000
+NLP算法工程师,阿里,"Deep Learning,Python,pytorch",北京,硕士,36000
+后端工程师,阿里,"Golang,MySQL,Kubernetes",上海,硕士,30000
+NLP算法工程师,阿里,"NLP,Transformers,Python",上海,博士,40000
+后端工程师,阿里,"Java,Spring Cloud,Redis",广东,本科,28000
+NLP算法工程师,阿里,"AI,Machine Learning,Python",广东,博士,45000
+后端工程师,阿里,"C#,SQL Server,.NET Core",四川,本科,28000
+NLP算法工程师,阿里,"Deep Learning,Python,Natural Language Processing",四川,博士,42000
+后端工程师,阿里,"Java,Spring Boot,MySQL",上海,本科,20000
+NLP算法工程师,阿里,"Python,Pytorch,BERT",北京,硕士,30000
+后端工程师,阿里,"Go,Docker,Kubernetes",广东,本科,22000
+NLP算法工程师,阿里,"TensorFlow,SKlearn,ACL",湖北,硕士,28000
+后端工程师,阿里,"PHP,Laravel,Redis",江苏,本科,20000
+NLP算法工程师,阿里,"NLP,Deep Learning,Python",浙江,博士,35000
+后端工程师,阿里,"Node.js,Express,MongoDB",福建,本科,21000
+NLP算法工程师,阿里,"Text Mining,Machine Learning,Pytorch",四川,硕士,29000
+后端工程师,阿里,"C++,STL,Design Pattern",湖南,本科,24000
+NLP算法工程师,阿里,"Gensim,Spacy,CUDA",江西,博士,36000
+后端工程师,美团,"Java,Spring Boot,MySQL",北京,本科,25000
+NLP算法工程师,美团,"pytorch,python,ACL",上海,硕士,35000
+后端工程师,美团,"Golang,Docker,Kubernetes",广东,高中及以下,20000
+NLP算法工程师,美团,"TensorFlow,deeplearning,Keras",浙江,博士,40000
+后端工程师,美团,"Java,Redis,MongoDB",江苏,本科,24000
+NLP算法工程师,美团,"NLTK,Spacy,Gensim",四川,硕士,33000
+后端工程师,美团,"PHP,Laravel,PostgreSQL",陕西,高中及以下,19000
+NLP算法工程师,美团,"BERT,transformers,sklearn",湖北,博士,39000
+后端工程师,美团,"C#,ASP.NET Core,SQL Server",福建,本科,23000
+NLP算法工程师,美团,"pytorch,python,CUDA",广西,硕士,32000
+后端工程师,字节,"Java,Python,Docker",北京,本科,20000
+NLP算法工程师,字节,"pytorch,python,ACL",浙江,硕士,30000
+后端工程师,字节,"Go,Python,Kubernetes",上海,硕士,25000
+NLP算法工程师,字节,"tensorflow,python,CUDA",江苏,博士,40000
+后端工程师,字节,"Go,Docker,MySQL",广东,本科,20000
+NLP算法工程师,字节,"pytorch,ACL,NLTK",湖南,硕士,35000
+后端工程师,字节,"Java,Kubernetes,Redis",福建,硕士,23000
+NLP算法工程师,字节,"tensorflow,CUDA,NLTK",山东,博士,40000
+后端工程师,字节,"Java,Docker,MySQL",浙江,本科,21000
+NLP算法工程师,字节,"pytorch,python,ACL",四川,硕士,30000
+后端工程师,百度,"Java,MySQL,Spring",北京,本科,15000
+NLP算法工程师,百度,"Pytorch,Python,ACL",上海,硕士,25000
+后端工程师,百度,"Java,MySQL,Spring Boot",广东,本科,16000
+NLP算法工程师,百度,"Pytorch,Python,CUDA",浙江,博士,35000
+后端工程师,百度,"Java,Redis,Spring Cloud",江苏,本科,17000
+NLP算法工程师,百度,"TensorFlow,Python,NLTK",福建,硕士,28000
+后端工程师,百度,"Java,MongoDB,Spring Security",湖南,本科,15500
+NLP算法工程师,百度,"Keras,Python,Gensim",四川,博士,36500
+后端工程师,百度,"Java,Oracle,Spring MVC",山东,本科,16500
+NLP算法工程师,百度,"Theano,Python,Spacy",辽宁,硕士,29000
+后端工程师,腾讯,"Java,Python,MySQL",北京,本科,15000
+NLP算法工程师,腾讯,"Python,NLP,Machine Learning",上海,硕士,20000
+后端工程师,腾讯,"Go,Python,Ruby",广东,博士,20000
+NLP算法工程师,腾讯,"Deep Learning,Python,NLP",山东,硕士,25000
+后端工程师,腾讯,"Cloud Services,AWS,Node.js",河南,本科,18000
+NLP算法工程师,腾讯,"Machine Learning,Python,Speech Recognition",江苏,博士,30000
+后端工程师,腾讯,"Django,Python,Oracle",浙江,本科,16000
+NLP算法工程师,腾讯,"NLP,Transfer Learning,Python",福建,硕士,22000
+后端工程师,腾讯,"PHP,Python,JavaScript",湖南,本科,17000
+NLP算法工程师,腾讯,"Python,AI,Neural Networks",四川,博士,28000
+后端工程师,小红书,"Java,Python,SpringBoot",北京,本科,18000
+NLP算法工程师,小红书,"NLP, Python, Tensorflow",上海,硕士,25000
+后端工程师,小红书,"C++, Node.js, MySQL",广东,本科,19000
+NLP算法工程师,小红书,"NLP, Deep Learning, Pytorch",浙江,博士,30000
+后端工程师,小红书,"Java, Redis, MongoDB",湖南,高中及以下,15000
+NLP算法工程师,小红书,"Machine Learning, Python, Keras",湖北,硕士,27000
+后端工程师,小红书,"Go, MySQL, Nginx",江苏,本科,20000
+NLP算法工程师,小红书,"NLP, CNN, RNN",四川,博士,31000
+后端工程师,小红书,"PHP, Apache, Laravel",福建,本科,18000
+NLP算法工程师,小红书,"BERT, Python, CUDA",山东,硕士,26000
+后端工程师,腾讯,"Java,MySQL,Spring",北京,本科,25000
+后端工程师,腾讯,"Python,Django,Flask",上海,硕士,28000
+后端工程师,腾讯,"PHP,Laravel,SQL",广东,本科,22000
+后端工程师,腾讯,"Node.js,Express,MongoDB",浙江,高中及以下,20000
+后端工程师,腾讯,"Go,Gin,PostgreSQL",江苏,硕士,26000
+NLP算法工程师,腾讯,"BERT,python,TensorFlow",广东,硕士,35000
+NLP算法工程师,腾讯,"Word2Vec,python,ACL",湖北,博士,40000
+NLP算法工程师,腾讯,"RNN,python,Keras",四川,本科,30000
+NLP算法工程师,腾讯,"GPT,python,Pytorch",湖南,高中及以下,25000
+NLP算法工程师,腾讯,"Transformer,python,Theano",福建,博士,42000
+后端工程师,小红书,"Java,MySQL,Spring",上海,本科,20000
+NLP算法工程师,小红书,"Python,PyTorch,ACL",北京,硕士,30000
+后端工程师,小红书,"Java,Oracle,SpringBoot",广东,本科,18000
+NLP算法工程师,小红书,"Python,TensorFlow,NLP",浙江,博士,40000
+后端工程师,小红书,"Python,Django,MySQL",河北,高中及以下,8000
+NLP算法工程师,小红书,"C++, Deep Learning, Machine Learning",江苏,硕士,32000
+后端工程师,小红书,"Java,SQL,SpringBoot",湖北,硕士,22000
+NLP算法工程师,小红书,"Python, Deep Learning, Text Mining",福建,博士,42000
+后端工程师,小红书,"Ruby,Rails,PostgreSQL",云南,本科,19000
+NLP算法工程师,小红书,"Java,Mahout,NLP",河南,博士,45000
+后端工程师,阿里,"Java,Linux,MySQL",北京,本科,20000
+后端工程师,阿里,"Java,Python,Docker",浙江,硕士,23000
+后端工程师,阿里,"Spring Boot,NoSQL,Redis",上海,本科,21000
+NLP算法工程师,阿里,"自然语言处理,深度学习,TensorFlow",北京,硕士,28000
+NLP算法工程师,阿里,"自然语言处理,Python,PyTorch",浙江,博士,35000
+NLP算法工程师,阿里,"自然语言处理,机器学习,Scikit-learn",四川,硕士,28000
+后端工程师,阿里,"Java,Python,Kubernetes",武汉,高中及以下,18000
+后端工程师,阿里,"Linux,RabbitMQ,分布式系统",广东,本科,22000
+NLP算法工程师,阿里,"自然语言处理,神经网络,机器翻译",山东,博士,34000
+NLP算法工程师,阿里,"自然语言处理,知识图谱,语义理解",陕西,硕士,29000
+后端工程师,字节,"Java,Spring Boot,MySQL",北京,本科,20000
+后端工程师,字节,"Python,Django,PostgreSQL",上海,硕士,22000
+后端工程师,字节,"C++,Redis,RabbitMQ",广东,硕士,23000
+后端工程师,字节,"JavaScript,Node.js,MongoDB",浙江,本科,21000
+后端工程师,字节,"Go,Rust,Cloud Native",江苏,硕士,24000
+NLP算法工程师,字节,"tensorflow,python,NLP",广东,博士,28000
+NLP算法工程师,字节,"pytorch,python,ACL",浙江,硕士,27000
+NLP算法工程师,字节,"BERT,deep learning,transformers",江苏,博士,29000
+NLP算法工程师,字节,"LSTM,NER,Semantic Analysis",上海,硕士,26000
+NLP算法工程师,字节,"Dialogue Systems,Reinforcement Learning,Seq2Seq",北京,博士,30000
+后端工程师,腾讯,"Java,Python,Django",北京,本科,20000
+NLP算法工程师,腾讯,"NLP,Python,TensorFlow",浙江,硕士,30000
+后端工程师,腾讯,"Java,Python,Django",上海,博士,25000
+NLP算法工程师,腾讯,"NLP,Python,TensorFlow",广东,本科,28000
+后端工程师,腾讯,"Java,Python,Django",福建,硕士,22000
+NLP算法工程师,腾讯,"NLP,Python,TensorFlow",天津,博士,32000
+后端工程师,腾讯,"Java,Python,Django",江苏,高中及以下,18000
+NLP算法工程师,腾讯,"NLP,Python,TensorFlow",重庆,本科,28000
+后端工程师,腾讯,"Java,Python,Django",湖北,博士,25000
+NLP算法工程师,腾讯,"NLP,Python,TensorFlow",四川,硕士,31000
+后端工程师,阿里,"Java,Python,MySQL",北京,本科,20000
+后端工程师,阿里,"Java,Python,PostgreSQL",上海,硕士,25000
+NLP算法工程师,阿里,"pytorch,python,ACL",广东,硕士,30000
+NLP算法工程师,阿里,"tensorflow,python,keras",江苏,博士,40000
+后端工程师,阿里,"C++,Python,NoSQL",广东,高中及以下,15000
+后端工程师,阿里,"C++,Python,SQLite",浙江,本科,22000
+NLP算法工程师,阿里,"pytorch,python,spaCy",四川,硕士,28000
+NLP算法工程师,阿里,"pytorch,python,CUDA",福建,博士,35000
+后端工程师,阿里,"Go,Python,PostgreSQL",河南,硕士,24000
+NLP算法工程师,阿里,"tensorflow,python,GPT",湖南,本科,26000
+后端工程师,字节,"Java, Spring Boot, Docker",北京,本科,15000
+后端工程师,字节,"Java, MySQL, Redis",上海,本科,16000
+后端工程师,字节,"Java, NoSQL, AWS",广东,硕士,20000
+后端工程师,字节,"Java, Redis, Elasticsearch",广东,硕士,22000
+后端工程师,字节,"Java, Kubernetes, Microservices",浙江,博士,25000
+NLP算法工程师,字节,"pytorch,python,ACL",北京,硕士,30000
+NLP算法工程师,字节,"pytorch,python,CUDA",浙江,博士,35000
+NLP算法工程师,字节,"TensorFlow,Deep Learning,NLU",广东,硕士,32000
+NLP算法工程师,字节,"Natural Language Processing,ML,Python",广东,博士,40000
+NLP算法工程师,字节,"Machine Learning,Deep Learning,Python",上海,博士,45000
+后端工程师,美团,"Java,Spring,MySQL",北京,本科,15000
+NLP算法工程师,美团,"pytorch,python,ACL",广东,博士,35000
+后端工程师,美团,"MySQL,Java,Redis",浙江,硕士,18000
+NLP算法工程师,美团,"tensorflow,CUDA,python",广东,本科,32000
+后端工程师,美团,"Java,Spring,MySQL",江苏,高中及以下,12000
+NLP算法工程师,美团,"pytorch,CUDA,python",湖北,硕士,34000
+后端工程师,美团,"Redis,MySQL,Java",上海,高中及以下,11000
+NLP算法工程师,美团,"pytorch,python,ACL",福建,本科,30000
+后端工程师,美团,"Java,Spring,MySQL",北京,硕士,20000
+NLP算法工程师,美团,"pytorch,python,ACL",安徽,博士,37000
+后端工程师,百度,"Java,Spring Boot,Microservices",北京,本科,25000
+NLP算法工程师,百度,"TensorFlow,Python,BERT",上海,硕士,30000
+后端工程师,百度,"Node.js,Express,MongoDB",广东,本科,26000
+NLP算法工程师,百度,"GPT-3,PyTorch,Java",广东,博士,35000
+后端工程师,百度,"Python,Django,REST API",江苏,高中及以下,20000
+NLP算法工程师,百度,"Hugging Face,Transformer,NLU",浙江,硕士,32000
+后端工程师,百度,"Golang,Echo,Redis",四川,本科,24000
+NLP算法工程师,百度,"DistilBERT,Fasttext,NLTK",山东,博士,34000
+后端工程师,百度,"C++,Boost,Concurrency",陕西,硕士,27000
+NLP算法工程师,百度,"Text Summarization,Tokenizers,ML",湖北,本科,28000
+后端工程师,百度,"Java,MySQL,Python",北京,本科,25000
+NLP算法工程师,百度,"pytorch,python,ACL",上海,硕士,35000
+后端工程师,百度,"Java,MySQL,Python",广东,本科,26000
+NLP算法工程师,百度,"pytorch,python,CUDA",广东,博士,45000
+后端工程师,百度,"Java,MySQL,Python",江苏,硕士,30000
+NLP算法工程师,百度,"tensorflow,python,ACL",浙江,博士,40000
+后端工程师,百度,"Java,MySQL,Python",四川,高中及以下,18000
+NLP算法工程师,百度,"pytorch,python,NLP",湖北,本科,28000
+后端工程师,百度,"Java,MySQL,Python",福建,博士,35000
+NLP算法工程师,百度,"tensorflow,python,CUDA",广东,硕士,36000
+后端工程师,字节,"java,python,MySQL",北京,本科,16000
+NLP算法工程师,字节,"pytorch,python,ACL",上海,硕士,28000
+后端工程师,字节,"java,python,MongoDB",广东,硕士,20000
+NLP算法工程师,字节,"tensorflow,python,CUDA",浙江,博士,35000
+后端工程师,字节,"java,python,Oracle",福建,高中及以下,12000
+NLP算法工程师,字节,"pytorch,python,NLTK",江苏,本科,26000
+后端工程师,字节,"java,python,PostgreSQL",湖北,博士,22000
+NLP算法工程师,字节,"tensorflow,python,SpaCy",湖南,硕士,32000
+后端工程师,字节,"java,python,LucidDB",陕西,本科,17000
+NLP算法工程师,字节,"pytorch,python,Gensim",山东,博士,36000
+后端工程师,美团,"Java,MySQL,Redis",北京,本科,25000
+后端工程师,美团,"Java,Oracle,SSM",上海,硕士,28000
+后端工程师,美团,"Java,MySQL,Spring",广东,本科,26000
+后端工程师,美团,"Java,MySQL,MyBatis",浙江,博士,30000
+后端工程师,美团,"Java,PostgreSQL,Hibernate",江苏,硕士,29000
+NLP算法工程师,美团,"pytorch,python,ACL",北京,硕士,32000
+NLP算法工程师,美团,"tensorflow,python,Keras",上海,博士,38000
+NLP算法工程师,美团,"pytorch,python,CUDA",广东,本科,30000
+NLP算法工程师,美团,"tensorflow,python,EMNLP",浙江,硕士,33000
+NLP算法工程师,美团,"pytorch,python,NER",江苏,博士,37000
+后端工程师,阿里,"Java, Python, MySQL",浙江,本科,25000
+后端工程师,阿里,"C++, Python, Redis",北京,硕士,28000
+后端工程师,阿里,"Golang, Docker, Kubernetes",江苏,博士,35000
+后端工程师,阿里,"Java, SpringBoot, MySQL",广东,硕士,30000
+后端工程师,阿里,"Python, Django, PostgreSQL",辽宁,硕士,27000
+NLP算法工程师,阿里,"Pytorch, Python, ACL",河南,硕士,40000
+NLP算法工程师,阿里,"Tensorflow, Keras, NLTK",山东,博士,45000
+NLP算法工程师,阿里,"BERT, Transformers, Python",福建,本科,35000
+NLP算法工程师,阿里,"Deep Learning, Machine Learning, Spacy",四川,硕士,39000
+NLP算法工程师,阿里,"Pytorch, Transformers, Keras",湖南,博士,42000
+后端工程师,腾讯,"Java,MySQL,Redis",上海,本科,25000
+后端工程师,腾讯,"Python,Django,RestfulAPI",北京,本科,26000
+后端工程师,腾讯,"Go,MySQL,Docker",广东,硕士,28000
+后端工程师,腾讯,"Java,MySQL,Kafka",广东,博士,35000
+后端工程师,腾讯,"C++,Redis,RabbitMQ",浙江,硕士,30000
+NLP算法工程师,腾讯,"Tensorflow,Python,NLTK",北京,硕士,32000
+NLP算法工程师,腾讯,"Pytorch,Python,Spacy",上海,本科,29000
+NLP算法工程师,腾讯,"Keras,Java,Gensim",武汉,硕士,31000
+NLP算法工程师,腾讯,"NLP,Python,BERT",江苏,博士,38000
+NLP算法工程师,腾讯,"DeepLearning, Tensorflow, LDA",浙江,本科,30000
+后端工程师,字节,"Java,Node.js,数据库技术",北京,本科,25000
+NLP算法工程师,字节,"Python,Pytorch,Natural Language Processing",上海,博士,40000
+后端工程师,字节,"Go,Node.js,分布式系统",浙江,硕士,30000
+NLP算法工程师,字节,"Python,TensorFlow,Machine Learning",江苏,硕士,35000
+后端工程师,字节,"Java,SpringBoot,数据库技术",福建,本科,28000
+NLP算法工程师,字节,"Python,Keras,Deep Learning",四川,博士,42000
+后端工程师,字节,"Go,微服务,数据库技术",湖南,硕士,31000
+NLP算法工程师,字节,"Python,BERT,Text Classification",广东,博士,40000
+后端工程师,字节,"Java,微服务,分布式系统",陕西,本科,26000
+NLP算法工程师,字节,"Python,LSTM,Speech Recognition",湖北,硕士,36000
+后端工程师,阿里,"Java,C++,SQL",上海,本科,20000
+NLP算法工程师,阿里,"pytorch,python,ACL",江苏,硕士,35000
+后端工程师,阿里,"Java,Python,NoSQL",北京,本科,25000
+NLP算法工程师,阿里,"NLTK,RASA,Machine Learning",湖北,博士,45000
+后端工程师,阿里,"Java,Node.js,NoSQL",广东,本科,24000
+NLP算法工程师,阿里,"TensorFlow,python,Deep Learning",四川,博士,40000
+后端工程师,阿里,"Java,C#,MySQL",浙江,硕士,30000
+NLP算法工程师,阿里,"Keras,python,Natural Language Understanding",江西,硕士,35000
+后端工程师,阿里,"Java,Ruby,Oracle",福建,硕士,28000
+NLP算法工程师,阿里,"BERT,python,Machine Learning",河北,博士,42000
+后端工程师,腾讯,"Java,Python,Docker",北京,本科,24000
+NLP算法工程师,腾讯,"pytorch,python,ACL",上海,硕士,35000
+后端工程师,腾讯,"Java,Python,Kubernetes",广东,本科,25000
+NLP算法工程师,腾讯,"tensorflow,python,NLP",浙江,博士,45000
+后端工程师,腾讯,"Java,Distributed Systems,Microservices",四川,硕士,30000
+NLP算法工程师,腾讯,"pytorch,python,NER",江苏,硕士,35000
+后端工程师,腾讯,"Java,Python,API",福建,高中及以下,18000
+NLP算法工程师,腾讯,"tensorflow,python,Word Embeddings",湖南,硕士,36000
+后端工程师,腾讯,"Java,Spring Framework,Redis",河北,博士,40000
+NLP算法工程师,腾讯,"pytorch,python,Text Classification",陕西,本科,32000
+后端工程师,小红书,"Java,MySQL,MongoDB",上海,本科,20000
+NLP算法工程师,小红书,"Tensorflow,Python,Stanford NLP",北京,硕士,30000
+后端工程师,小红书,"Python,Django,API development",广东,本科,23000
+NLP算法工程师,小红书,"Pytorch,Python,Machine Learning",浙江,硕士,32000
+后端工程师,小红书,"Go,RabbitMQ,Elasticsearch",江苏,本科,24000
+NLP算法工程师,小红书,"NLP,Deep Learning,Dialogflow",四川,博士,39000
+后端工程师,小红书,"Node.js,Express,MongoDB",福建,本科,21000
+NLP算法工程师,小红书,"Neural Networks,NLU,Text Classification",湖南,硕士,30000
+后端工程师,小红书,"Kubernetes,Docker,Redis",北京,高中及以下,18000
+NLP算法工程师,小红书,"NLTK,Gensim,Scikit-learn",湖北,博士,41000
+后端工程师,阿里,"Java,Python,MySQL",北京,本科,25000
+NLP算法工程师,阿里,"TensorFlow,python,Keras",上海,硕士,35000
+后端工程师,阿里,"Spring,MySQL,Redis",广东,本科,28000
+NLP算法工程师,阿里,"BERT,pytorch,ACL",浙江,博士,40000
+后端工程师,阿里,"Django,PostgreSQL,Memcached",四川,硕士,30000
+NLP算法工程师,阿里,"Transformer,Python,Spacy",江苏,硕士,36000
+后端工程师,阿里,"Java,Golang,ELK",福建,本科,26000
+NLP算法工程师,阿里,"OpenNMT,LSTM,StanfordNLP",陕西,博士,42000
+后端工程师,阿里,"Node.js,MongoDB,RESTful",湖南,高中及以下,20000
+NLP算法工程师,阿里,"GPT-3,Python,Gensim",天津,本科,28000
+后端工程师,字节,"Java,Python,Go",北京,本科,25000
+后端工程师,字节,"Java,Python,MySQL",上海,硕士,30000
+后端工程师,字节,"Java,Python,Docker",广东,本科,23000
+后端工程师,字节,"Java,Python,Kubernetes",江苏,硕士,27000
+后端工程师,字节,"Java,Python,MongoDB",浙江,高中及以下,20000
+NLP算法工程师,字节,"pytorch,python,ACL",河南,硕士,35000
+NLP算法工程师,字节,"TensorFlow,python,CUDA",湖北,本科,28000
+NLP算法工程师,字节,"pytorch,python,Hadoop",广东,博士,40000
+NLP算法工程师,字节,"pytorch,python,Spark",山东,硕士,35000
+NLP算法工程师,字节,"pytorch,python,Machine Learning",福建,本科,32000
+后端工程师,美团,"Java,Spring,MySQL",北京,本科,13000
+NLP算法工程师,美团,"Python,Tensorflow,NLTK",上海,硕士,20000
+后端工程师,美团,"Python,Django,PostgreSQL",广东,本科,15000
+NLP算法工程师,美团,"Java,DeepLearning4j,Stanford CoreNLP",浙江,博士,25000
+后端工程师,美团,"Go,Microservices,MongoDB",江苏,本科,16000
+NLP算法工程师,美团,"R,Caret,Featuretools",福建,硕士,22000
+后端工程师,美团,"Ruby,Rails,SQLite",湖南,本科,14000
+NLP算法工程师,美团,"Matlab,CNN,BERT",四川,博士,28000
+后端工程师,美团,"PHP,Laravel,MySQL",湖北,本科,12000
+NLP算法工程师,美团,"Julia,Flux,Transformers",河南,硕士,23000
+后端工程师,百度,"Java,MySQL,Hadoop",广东,本科,15000
+NLP算法工程师,百度,"pytorch,python,ACL",北京,硕士,30000
+后端工程师,百度,"Python,MySQL,AWS",浙江,高中及以下,10000
+NLP算法工程师,百度,"TensorFlow,NLP,Gensim",上海,博士,40000
+后端工程师,百度,"Java,Oracle,Cloud",湖北,本科,20000
+NLP算法工程师,百度,"Deep Learning,AI,Machine Learning",湖南,硕士,35000
+后端工程师,百度,"Python,MySQL,Docker",江苏,高中及以下,12000
+NLP算法工程师,百度,"Natural Language Processing,Machine Learning,AI",四川,博士,45000
+后端工程师,百度,"C++,Linux,MySQL",福建,本科,18000
+NLP算法工程师,百度,"Deep Learning,Data Mining,Python",广东,硕士,32000
+后端工程师,腾讯,"Java,SpringBoot,MySQL",北京,本科,25000
+NLP算法工程师,腾讯,"Python,LSTM,Word2Vec",上海,博士,35000
+后端工程师,腾讯,"NodeJs,Express,Koa",广东,硕士,30000
+NLP算法工程师,腾讯,"TensorFlow,BERT,HAN",江苏,博士,40000
+后端工程师,腾讯,"Python,Django,Flask",浙江,本科,25000
+NLP算法工程师,腾讯,"Keras,Seq2Seq,Attention",湖南,硕士,32000
+后端工程师,腾讯,"Ruby,Rails,PostgreSQL",湖北,高中及以下,20000
+NLP算法工程师,腾讯,"PyTorch,Transformer,GPT",四川,博士,37000
+后端工程师,腾讯,"Go,Beego,Gin",福建,本科,24000
+NLP算法工程师,腾讯,"Java,Speech Recognition,Machine Learning",甘肃,硕士,33000
+后端工程师,小红书,"Java,SpringBoot,Mysql",北京,本科,20000
+NLP算法工程师,小红书,"pytorch,python,ACL",上海,硕士,30000
+后端工程师,小红书,"Java, SpringBoot, Redis",广东,本科,22000
+NLP算法工程师,小红书,"TensorFlow, Java, LSTM",浙江,硕士,32000
+后端工程师,小红书,"C++, Linux, Docker",湖北,本科,21000
+NLP算法工程师,小红书,"pytorch,python,Keras",湖南,博士,40000
+后端工程师,小红书,"SpringCloud, Kubernetes, Rabbitmq",江苏,硕士,25000
+NLP算法工程师,小红书,"BERT,python, Deep Learning",福建,博士,42000
+后端工程师,小红书,"Microservices, Docker, Kubernetes",江西,本科,23000
+NLP算法工程师,小红书,"pytorch, NLP, Machine Learning",四川,博士,41000
+后端工程师,美团,"Java,Python,MySQL",北京,本科,25000
+NLP算法工程师,美团,"pytorch,python,ACL",上海,硕士,30000
+后端工程师,美团,"Java,Python,MySQL",广东,高中及以下,18000
+NLP算法工程师,美团,"pytorch,python,ACL",浙江,博士,35000
+后端工程师,美团,"Java,Python,MySQL",四川,本科,24000
+NLP算法工程师,美团,"pytorch,python,CUDA",江苏,硕士,31000
+后端工程师,美团,"Java,Python,MySQL",陕西,硕士,28000
+NLP算法工程师,美团,"pytorch,python,CUDA",江苏,博士,40000
+后端工程师,美团,"Java,Python,MySQL",广东,硕士,27000
+NLP算法工程师,美团,"pytorch,python,ACL",浙江,硕士,33000
+后端工程师,美团,"Java,MySQL,Spring",北京,本科,15000
+NLP算法工程师,美团,"Python,TensorFlow,NLP",上海,博士,25000
+后端工程师,美团,"Java,MySQL,Spring boot",广东,硕士,18000
+NLP算法工程师,美团,"Python,pytorch,NLP",浙江,博士,28000
+后端工程师,美团,"Go,MySQL,Microservice",湖北,博士,21000
+NLP算法工程师,美团,"Python,BERT,NLP",江苏,硕士,26000
+后端工程师,美团,"Java,Redis,Spring Cloud",四川,本科,16000
+NLP算法工程师,美团,"Python,Transformer,Deep Learning",山东,硕士,27000
+后端工程师,美团,"Java,Docker,Kubernetes",辽宁,本科,17000
+NLP算法工程师,美团,"Python,GPT-3,NLP",黑龙江,博士,30000
+后端工程师,腾讯,"java,python,node.js",北京,本科,20000
+后端工程师,腾讯,"java,python,C++",上海,本科,21000
+NLP算法工程师,腾讯,"pytorch,python,ACL",浙江,硕士,30000
+NLP算法工程师,腾讯,"pytorch,python,CUDA",广东,博士,40000
+NLP算法工程师,腾讯,"tensorflow,python,CUDA",四川,博士,35000
+后端工程师,腾讯,"java,python,Go",江苏,硕士,25000
+后端工程师,腾讯,"java,python,SQL",湖北,高中及以下,15000
+NLP算法工程师,腾讯,"tensorflow,python,CUDA",福建,硕士,32000
+NLP算法工程师,腾讯,"tensorflow,python,Pandas",山东,博士,37000
+后端工程师,腾讯,"java,python,Docker",河南,本科,22000
+后端工程师,小红书,"Java,MySQL,Linux",北京,本科,25000
+NLP算法工程师,小红书,"Tensorflow,Python,BERT",上海,硕士,28000
+后端工程师,小红书,"PHP,Redis,Node.js",广东,本科,22000
+NLP算法工程师,小红书,"Hugging Face,Python,CUDA",浙江,硕士,30000
+后端工程师,小红书,"Go,MongoDB,NoSQL",江苏,本科,24000
+NLP算法工程师,小红书,"generative pretrained transformer,Python,ACL",广东,硕士,29000
+后端工程师,小红书,"Python,Django,API",河南,本科,23000
+NLP算法工程师,小红书,"pytorch,python,OpenAI",福建,硕士,27000
+后端工程师,小红书,"Ruby,PostgreSQL,Cloud Services",四川,本科,24000
+NLP算法工程师,小红书,"Natural Language Processing,Python,syntax",陕西,硕士,26000
+后端工程师,百度,"Java,Python,MySQL",北京,本科,20000
+后端工程师,百度,"Java,Python,Oracle",上海,硕士,25000
+后端工程师,百度,"Java,Python,PostgreSQL",广东,本科,21000
+NLP算法工程师,百度,"pytorch,python,ACL",浙江,硕士,30000
+NLP算法工程师,百度,"pytorch,python,CUDA",江苏,博士,40000
+后端工程师,百度,"Java,Python,Hadoop",陕西,本科,18000
+后端工程师,百度,"Java,Node.js,MongoDB",湖北,硕士,24000
+后端工程师,百度,"Java,Python,Presto",四川,本科,19000
+NLP算法工程师,百度,"TensorFlow,python,NLP",湖南,硕士,32000
+NLP算法工程师,百度,"TensorFlow,python,cudNN",江西,博士,38000
+后端工程师,字节,"Java,Python,MySQL",北京,本科,25000
+NLP算法工程师,字节,"TensorFlow,Python,并行计算",上海,硕士,35000
+后端工程师,字节,"Go,C++,Redis",广东,本科,26000
+NLP算法工程师,字节,"BERT,transformers,自然语言处理",广东,博士,40000
+后端工程师,字节,"Spring Boot,Docker,云计算",浙江,硕士,28000
+NLP算法工程师,字节,"词向量,信息检索,神经网络",江苏,硕士,34000
+后端工程师,字节,"分布式系统,Kubernetes,API设计",江苏,本科,27000
+NLP算法工程师,字节,"图卷积,序列标注,数据挖掘",四川,博士,38000
+后端工程师,字节,"网络编程,云原生,微服务",重庆,硕士,27000
+NLP算法工程师,字节,"HuggingFace,Attention机制,知识图谱",武汉,硕士,33000
+后端工程师,美团,"Java,Springboot,MySQL",北京,本科,15000
+后端工程师,美团,"Java,SpringCloud,Docker",上海,硕士,20000
+NLP算法工程师,美团,"Bert,Transformer,Python",广东,硕士,25000
+后端工程师,美团,"Java,Ruby,PostgreSQL",浙江,本科,18000
+NLP算法工程师,美团,"pytorch,python,ACL",湖南,硕士,28000
+后端工程师,美团,"Java,Springboot,MongoDB",江苏,高中及以下,10000
+NLP算法工程师,美团,"Bert,Transformer,CUDA",四川,博士,35000
+后端工程师,美团,"Java,Scala,Hadoop",天津,本科,17000
+NLP算法工程师,美团,"tensorflow,python,NLP",陕西,博士,36000
+后端工程师,美团,"Java,Kotlin,Redis",福建,本科,16000
+后端工程师,阿里,"Java,Python,Node.js",北京,本科,15000
+NLP算法工程师,阿里,"Python,Natural Language Processing,Machine Learning",上海,硕士,30000
+后端工程师,阿里,"Java,Python,Node.js",广东,本科,18000
+NLP算法工程师,阿里,"Python,Natural Language Processing,Machine Learning",江苏,本科,25000
+后端工程师,阿里,"Java,Python,Node.js",浙江,本科,20000
+NLP算法工程师,阿里,"Python,Natural Language Processing,Machine Learning",四川,硕士,35000
+后端工程师,阿里,"Java,Python,Node.js",山东,本科,15000
+NLP算法工程师,阿里,"Python,Natural Language Processing,Machine Learning",江西,博士,40000
+后端工程师,阿里,"Java,Python,Node.js",湖南,硕士,20000
+NLP算法工程师,阿里,"Python,Natural Language Processing,Machine Learning",福建,博士,45000

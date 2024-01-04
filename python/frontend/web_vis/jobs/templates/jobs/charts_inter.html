@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>具体岗位数据看板</title>
+  <style>
+    /* 标题样式 */
+    .title {
+      text-align: center;
+      font-size: 24px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+    /* 侧栏菜单样式 */
+    .sidebar {
+      width: 200px;
+      height: 100%;
+      background-color: #f1f1f1;
+      position: fixed;
+      left: 0;
+      top: 0; /* 将侧栏与页面顶部对齐 */
+      overflow-x: hidden;
+      padding: 20px;
+    }
+
+    /* 侧栏菜单中的按钮样式 */
+    .sidebar button {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+
+   
+    /* 表单样式 */
+  .form-container {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+    padding-top: 50px;
+  }
+
+  /* 表单中的内容样式 */
+  .form-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 10px solid #888;
+    width: 50%; /* 调整表单宽度为50% */
+    max-width: 500px; /* 设置最大宽度为500px */
+    font-size: 20px; /* 调整内容的字体大小 */
+  }
+
+    /* 表单中的关闭按钮样式 */
+    .form-close {
+      color: #aaa;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+    }
+
+    /* 表单中的提交按钮样式 */
+    .form-submit {
+      margin-top: 10px;
+      padding: 10px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+
+    /* 表单中的提交按钮悬停样式 */
+    .form-submit:hover {
+      background-color: #45a049;
+    }
+
+    /* 新增的样式 */
+    .content-wrapper {
+      margin-left: 220px; /* 设置内容区域的左边距，确保不被侧栏遮挡 */
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="sidebar">
+    <button onclick="goToHomePage()">返回主页</button>
+    <button onclick="openForm()">预测薪资</button>
+  </div>
+
+
+  <div id="myForm" class="form-container">
+    <div class="form-content" style="display: flex; flex-direction: column; align-items: center;">
+      <span onclick="closeForm()" class="form-close">&times;</span>
+      <form>
+        {% csrf_token %}
+        <div style="display: flex; flex-direction: column;">
+          <label for="input_pos">岗位：</label>
+          <select id="input_pos" name="input_pos">
+            {% for pos in poses %}
+              <option value="{{ pos }}">{{ pos }}</option>
+            {% endfor %}
+          </select>
+  
+          <label for="input_region">地区：</label>
+          <select id="input_region" name="input_region">
+            {% for province in provinces %}
+              <option value="{{ province }}">{{ province }}</option>
+            {% endfor %}
+          </select>
+  
+          <label for="input_education">学历：</label>
+          <select id="input_education" name="input_education">
+            {% for education in educations %}
+              <option value="{{ education }}">{{ education }}</option>
+            {% endfor %}
+          </select>
+  
+          <button type="button" class="form-submit" onclick="submitForm()">提交</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div class="content-wrapper">
+    <div class="title">{{pos}}数据看板</div>
+
+    <div id="result"></div>
+
+    <div style="width: 50%; float: left;">
+      <div>
+        {{ wordcloud_chart|safe }}
+        <br>
+      </div>
+    </div>
+    <div style="width: 50%; float: right;">
+      <div>
+        {{ map_chart|safe }}
+        <br>
+      </div>
+    </div>
+    <div style="clear: both;"></div>
+    <div style="width: 50%; float: left;">
+      <div>
+        {{ pie_chart|safe }}
+      </div>
+    </div>
+    <div style="width: 50%; float: right;">
+      <div>
+        {{ pie_chart_company_type|safe }}
+      </div>
+    </div>
+  </div>
+  
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+  <script>
+    // 添加交互逻辑或其他JavaScript代码
+    // 返回主页按钮点击事件处理函数
+    function goToHomePage() {
+        window.location.href = ".."; // 设置为空字符串，表示跳转到当前页面的根路径
+    }
+
+    // 预测薪资按钮点击事件处理函数
+    function openForm() {
+      document.getElementById("myForm").style.display = "block";
+    }
+    
+    // 表单关闭按钮点击事件处理函数
+    function closeForm() {
+      document.getElementById("myForm").style.display = "none";
+    }
+    
+    // 表单提交按钮点击事件处理函数
+    function submitForm() {
+      var formData = $('#myForm form').serialize();  // 序列化表单数据
+      // 将提交按钮禁用，并将鼠标样式修改为加载圆圈
+      $('.form-submit').prop('disabled', true).css('cursor', 'wait');
+      // 发送Ajax请求
+      $.ajax({
+        url: '/submit_form/',  // /submit_form/
+        type: 'POST',
+        data: formData,
+        success: function(response) {
+          // 处理成功响应，使用alert弹窗显示salary
+          alert("根据大数据，您的预测月薪为：" + response.salary + "，您真棒！");
+          closeForm(); // 提交表单后关闭表单
+        },
+        error: function(xhr, status, error) {
+          // 处理错误响应
+          console.error(error);
+          closeForm(); // 提交表单后关闭表单
+        },
+        complete: function() {
+        // 请求完成后将提交按钮恢复可用状态，并将鼠标样式恢复为默认
+        $('.form-submit').prop('disabled', false).css('cursor', 'pointer');
+        }
+      });
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1703776613831,"sparkVersion":"2.4.3","uid":"VectorAssembler_e9fe81b7e154","paramMap":{"outputCol":"features","inputCols":["education_index","workplace_index","position_index"]},"defaultParamMap":{"outputCol":"VectorAssembler_e9fe81b7e154__output","handleInvalid":"error"}}

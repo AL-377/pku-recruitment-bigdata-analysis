@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% load static %}
+  <meta charset="utf-8">
+  <title>整体就业情况</title>
+  {{ map_chart_options|safe }}
+  {{ wordcloud_chart_options|safe }}
+  {{ pie_chart_options|safe }}
+  {{ pie_chart_company_type_options|safe }}
+  
+  <style>
+    /* 侧栏菜单样式 */
+    .sidebar {
+      width: 200px;
+      height: 100%;
+      background-color: #f1f1f1;
+      position: fixed;
+      left: 0;
+      top: 0; /* 将侧栏与页面顶部对齐 */
+      overflow-x: hidden;
+      padding: 20px;
+    }
+
+    /* 侧栏菜单中的按钮样式 */
+    .sidebar button {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    /* 标题样式 */
+    .title {
+      text-align: center; /* 将标题居中对齐 */
+      font-size: 24px; /* 设置标题字体大小 */
+      margin-top: 20px; /* 设置标题上方的间距 */
+      margin-bottom: 20px; /* 设置标题下方的间距 */
+    }
+
+    /* 新增的样式 */
+    .content-wrapper {
+      margin-left: 220px; /* 设置内容区域的左边距，确保不被侧栏遮挡 */
+      padding: 20px;
+    }
+  </style>
+  
+</head>
+<body>
+  <div class="content-wrapper">
+  <div class="title">
+    总体数据看板
+  </div> <!-- 添加标题 -->
+  <div class="sidebar">
+    <button onclick="goToBackend()">算法岗</button>
+    <button onclick="goToAlg()">开发岗</button>
+  </div>
+  <div style="width: 50%; float: left;">
+    <div>
+      {{ wordcloud_chart|safe }}
+      <br>
+    </div>
+  </div>
+  <div style="width: 50%; float: right;">
+    <div>
+      {{ map_chart|safe }}
+      <br>
+    </div>
+  </div>
+  <div style="clear: both;"></div>
+  <div style="width: 50%; float: left;">
+    <div>
+      {{ pie_chart|safe }}
+    </div>
+  </div>
+  <div style="width: 50%; float: right;">
+    <div>
+      {{ pie_chart_company_type|safe }}
+    </div>
+  </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+  <script>
+    // 添加交互逻辑或其他JavaScript代码
+    // 返回主页按钮点击事件处理函数
+    function goToBackend() {
+        window.location.href = "/algorithm"; // 设置为空字符串，表示跳转到当前页面的根路径
+    }
+    function goToAlg() {
+        window.location.href = "/backend"; // 设置为空字符串，表示跳转到当前页面的根路径
+    }
+  </script>
+</body>
+</html>
